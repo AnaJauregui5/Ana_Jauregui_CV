@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: #55B4BD;
 }
 
 .overlay-mf {
@@ -169,7 +169,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: #55B4BD;
   margin: 0 auto;
 }
 
@@ -187,7 +187,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: #55B4BD;
   width: 100px;
   bottom: -12px;
 }
@@ -228,12 +228,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px #55B4BD;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: #55B4BD;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -418,14 +418,14 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: #55B4BD;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
+  background-color: #55B4BD;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -857,7 +857,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: #55B4BD;
 }
 
 /*--------------------------------------------------------------
@@ -874,7 +874,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
+  background-color: #55B4BD;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -969,7 +969,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: #55B4BD;
 }
 
 .work-content .w-like {
@@ -1203,7 +1203,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit] {
-  background: #0078ff;
+  background: #55B4BD;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1211,7 +1211,7 @@ a:hover {
 }
 
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: #55B4BD;
 }
 
 @keyframes animate-loading {
@@ -1252,7 +1252,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #0078ff;
+  background-color: #55B4BD;
   border-radius: 4px;
 }
 
@@ -1446,7 +1446,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #004B54;
 }
 
 footer .copyright {
